@@ -1,0 +1,14 @@
+# Data is not published
+data/*
+!data/README.md
+
+# Python / Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.pyc
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
